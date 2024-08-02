@@ -44,8 +44,10 @@ Compartir insights encontrados en los datos.
 Desarrollaremos un modelo de predicción para detectar transacciones fraudulentas.
 
 #### Tecnologías a utilizar
--    Python
+- Python
 - SQL
+- Visual Studio
+- Visual Studio Code
 - Power BI
 - Git
 - Github
